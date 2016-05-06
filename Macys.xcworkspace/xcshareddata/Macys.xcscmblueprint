@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "96CC18AA76AB18EE33C98FFF3B135F19F6487D88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D25A95DD7BE00DD7B3367CD04949E862061ABA11" : 0,
+    "96CC18AA76AB18EE33C98FFF3B135F19F6487D88" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F7C55605-54D5-4734-9224-EB5DF22ED4C3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D25A95DD7BE00DD7B3367CD04949E862061ABA11" : "",
+    "96CC18AA76AB18EE33C98FFF3B135F19F6487D88" : "Macys"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Macys",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Macys.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Sribhargav1\/SriMacys.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96CC18AA76AB18EE33C98FFF3B135F19F6487D88"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nitinpabba\/SearchApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D25A95DD7BE00DD7B3367CD04949E862061ABA11"
+    }
+  ]
+}
